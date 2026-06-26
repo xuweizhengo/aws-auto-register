@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+.env
+
+# IDE
+.idea/
+.vscode/
+.kiro/
+.claude/
+*.swp
+*.swo
+
+# 临时文件
+bank/
+screenshots/
+logs/
+*.log
+tmpclaude-*
+
+# 数据文件
+*.jsonl
+accounts.json
+
+# 浏览器数据
+browser_data/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 截图
+*.png
+!assets/swiftproxy-github-cn.png
+!assets/thordata-proxy.png
