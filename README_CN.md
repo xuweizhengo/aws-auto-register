@@ -44,7 +44,7 @@ AWS Builder ID 是亚马逊提供的免费开发者账号，可用于访问 Amaz
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/xuweizhengo/aws-builder-id.git
+git clone https://github.com/xuweizhengo/aws-auto-register.git
 cd aws-builder-id
 ```
 
