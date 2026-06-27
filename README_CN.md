@@ -181,6 +181,13 @@ python scripts/check_fingerprint.py
 
 本项目仅供学习和研究自动化技术使用。使用者需自行承担使用风险，请遵守 AWS 服务条款和相关法律法规。作者不对任何滥用行为负责。
 
+
+
+## 相关项目
+
+- [cursor-free-api](https://github.com/xuweizhengo/cursor-free-api) — Cursor 免费 API 转 OpenAI/Anthropic 格式
+- [fingerprint-toolkit](https://github.com/xuweizhengo/fingerprint-toolkit) — 浏览器指纹工具箱，配合本项目实现完美注册
+
 ## 许可证
 
 [MIT License](LICENSE)

@@ -179,6 +179,13 @@ Run `python scripts/check_proxy.py` to test proxy connectivity.
 
 This project is for educational and research purposes only. Users assume all risks and should comply with AWS Terms of Service and applicable laws. The author is not responsible for any misuse.
 
+
+
+## Related Projects
+
+- [cursor-free-api](https://github.com/xuweizhengo/cursor-free-api) — Convert Cursor free API to OpenAI/Anthropic compatible format
+- [fingerprint-toolkit](https://github.com/xuweizhengo/fingerprint-toolkit) — Browser fingerprint randomization for anti-detection. Pairs perfectly with this project.
+
 ## License
 
 [MIT License](LICENSE)
