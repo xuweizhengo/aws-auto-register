@@ -186,7 +186,9 @@ python scripts/check_fingerprint.py
 ## 相关项目
 
 - [cursor-free-api](https://github.com/xuweizhengo/cursor-free-api) — Cursor 免费 API 转 OpenAI/Anthropic 格式
-- [fingerprint-toolkit](https://github.com/xuweizhengo/fingerprint-toolkit) — AI 技能市场 & MCP 注册表`n- [fingerprint-toolkit](https://github.com/xuweizhengo/fingerprint-toolkit) — 浏览器指纹工具箱，配合本项目实现完美注册
+- [fingerprint-toolkit](https://github.com/xuweizhengo/fingerprint-toolkit) — 浏览器指纹工具箱，配合本项目实现完美注册
+- [llm-api-purity](https://github.com/xuweizhengo/llm-api-purity) — OpenAI 与 Claude API 纯度检测工具
+- [skills-hub](https://github.com/xuweizhengo/skills-hub) — AI 技能市场 & MCP 注册表
 
 ## 许可证
 
