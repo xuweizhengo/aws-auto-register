@@ -184,7 +184,7 @@ This project is for educational and research purposes only. Users assume all ris
 ## Related Projects
 
 - [cursor-free-api](https://github.com/xuweizhengo/cursor-free-api) — Convert Cursor free API to OpenAI/Anthropic compatible format
-- [fingerprint-toolkit](https://github.com/xuweizhengo/fingerprint-toolkit) — Browser fingerprint randomization for anti-detection. Pairs perfectly with this project.
+- [skills-hub](https://github.com/xuweizhengo/skills-hub) — AI Skills & MCP marketplace`n- [fingerprint-toolkit](https://github.com/xuweizhengo/fingerprint-toolkit) — Browser fingerprint randomization for anti-detection. Pairs perfectly with this project.
 
 ## License
 
