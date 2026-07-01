@@ -43,7 +43,7 @@ AWS Builder ID is a free developer account provided by Amazon, which can be used
 
 ```bash
 git clone https://github.com/xuweizhengo/aws-auto-register.git
-cd aws-builder-id
+cd aws-auto-register
 ```
 
 ### 2. Install Dependencies

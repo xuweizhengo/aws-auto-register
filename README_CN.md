@@ -45,7 +45,7 @@ AWS Builder ID 是亚马逊提供的免费开发者账号，可用于访问 Amaz
 
 ```bash
 git clone https://github.com/xuweizhengo/aws-auto-register.git
-cd aws-builder-id
+cd aws-auto-register
 ```
 
 ### 2. 安装依赖
